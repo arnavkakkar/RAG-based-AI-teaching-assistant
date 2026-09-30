@@ -1,0 +1,7 @@
+flask
+pandas
+numpy
+joblib
+requests
+faiss-cpu
+langchain-core

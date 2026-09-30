@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Python generated/model files
+*.joblib
+*.pkl
+
+# Large media files
+*.mp3
+*.wav
+*.mp4
+*.m4a
+*.mov
+*.avi
+*.webm
+
+# Project media folders
+audios/
+rag_videos/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Environment/secrets
+.env
+
+# Logs
+*.log
